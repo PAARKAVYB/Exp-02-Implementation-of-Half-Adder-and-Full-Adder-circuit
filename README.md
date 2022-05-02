@@ -86,7 +86,8 @@ endmodule
 
 ### LOGIC SYMBOLS USED IN FULL ADDER:
 
-![Symbol](https://user-images.githubusercontent.com/93509383/166180233-77a9440d-dfb0-4ca7-a402-8dcea904e843.png)
+![Symbol](https://user-images.githubusercontent.com/93509383/166180445-ee76799f-4ec1-49a3-bca4-bfb18da5ba5e.png)
+
 
 
 
