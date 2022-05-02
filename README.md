@@ -86,7 +86,8 @@ endmodule
 
 ### LOGIC SYMBOLS USED IN FULL ADDER:
 
-![Symbol](https://user-images.githubusercontent.com/93509383/166179866-3727a3ac-dcc9-4f29-9fbf-f42cd08183c8.png)
+![Symbol](https://user-images.githubusercontent.com/93509383/166180233-77a9440d-dfb0-4ca7-a402-8dcea904e843.png)
+
 
 
 
@@ -96,7 +97,8 @@ endmodule
 
 ### TIMING DIAGRAM:
 
-![output](diagram.png)
+![Diagram](https://user-images.githubusercontent.com/93509383/166180248-4e5ed61e-b0d9-4dcf-b87f-738ae4665dc8.png)
+
 
 ### TRUTH TABLE:
 
